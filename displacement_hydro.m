@@ -1,3 +1,9 @@
+%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+%Nuno Pessanha Santos - santos.naamp@academiamilitar.pt
+%Victor Lobo - vlobo@novaims.unl.pt
+%André Dias 
+%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 function [timedifference]=timedifference(A,B)
 
 %Size of the vector
