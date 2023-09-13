@@ -1,4 +1,4 @@
-# acoustic_processing
+# Implementation of a Passive Acoustic Barrier for Surveillance
 Implementation of a Passive Acoustic Barrier for Surveillance
 
 A. R. Dias, N. Pessanha Santos and V. Lobo, "Implementation of a Passive Acoustic Barrier for Surveillance," OCEANS 2023 - Limerick, Limerick, Ireland, 2023, pp. 1-6, doi: 10.1109/OCEANSLimerick52467.2023.10244682.
